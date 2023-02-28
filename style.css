@@ -23,6 +23,7 @@ header {
   align-self: center;
   min-height: 100vh;
   background-image: url("./Assets/homepage-bg1.png");
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   display: flex;
